@@ -3,13 +3,13 @@ CSE1007 Java Programming Codes
 
 1) Write a program that uses println() to produce this pattern:
 
- '__'
- (@@)
- /========\/
- / || %% ||
-* ||----||
- ¥¥ ¥¥
- "" ""
+ '__' <br>
+ (@@) <br>
+ /========\/ <br>
+ / || %% || <br>
+ * ||----|| <br>
+ ¥¥ ¥¥ <br>
+ "" "" <br>
  
 2) Write a program to read the first and last name from the user through command line
 arguments and display a greeting message.
